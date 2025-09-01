@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0909-stone-game](https://github.com/ShabasRahman7/Leetcode/tree/master/0909-stone-game) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/ShabasRahman7/Leetcode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->

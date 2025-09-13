@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShabasRahman7/Leetcode/tree/master/0001-two-sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShabasRahman7/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShabasRahman7/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShabasRahman7/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShabasRahman7/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
 | ------- |
@@ -83,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ShabasRahman7/Leetcode/tree/master/0015-3sum) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShabasRahman7/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShabasRahman7/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 <!---LeetCode Topics End-->

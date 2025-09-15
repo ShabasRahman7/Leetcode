@@ -1,13 +1,10 @@
 class Solution:
     def canBeTypedWords(self, text: str, brokenLetters: str) -> int:
-        broken = list(brokenLetters)
+        broken = set(brokenLetters)
         string= text.split(' ')
         count=0
-        for i in string:
-            for j in broken:
-                if j in i:
-                    break
-            else:
+        for word in string:
+            if not any(ch in broken for ch in word):
                 count+=1
         return count
 

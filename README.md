@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ShabasRahman7/Leetcode/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/ShabasRahman7/Leetcode/tree/master/0054-spiral-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShabasRahman7/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShabasRahman7/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/ShabasRahman7/Leetcode/tree/master/0200-number-of-islands) |
 | [0909-stone-game](https://github.com/ShabasRahman7/Leetcode/tree/master/0909-stone-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShabasRahman7/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ShabasRahman7/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShabasRahman7/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ShabasRahman7/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->

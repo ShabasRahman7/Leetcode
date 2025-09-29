@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShabasRahman7/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3194-find-words-containing-character](https://github.com/ShabasRahman7/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/ShabasRahman7/Leetcode/tree/master/3379-score-of-a-string) |
+| [3636-check-balanced-string](https://github.com/ShabasRahman7/Leetcode/tree/master/3636-check-balanced-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ShabasRahman7/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |

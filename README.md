@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ShabasRahman7/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShabasRahman7/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/ShabasRahman7/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [2528-number-of-valid-clock-times](https://github.com/ShabasRahman7/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [3194-find-words-containing-character](https://github.com/ShabasRahman7/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/ShabasRahman7/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/ShabasRahman7/Leetcode/tree/master/3379-score-of-a-string) |
@@ -144,5 +145,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2528-number-of-valid-clock-times](https://github.com/ShabasRahman7/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/ShabasRahman7/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 <!---LeetCode Topics End-->

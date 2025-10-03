@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ShabasRahman7/Leetcode/tree/master/0001-two-sum) |
+| [0782-jewels-and-stones](https://github.com/ShabasRahman7/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ShabasRahman7/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShabasRahman7/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/ShabasRahman7/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/ShabasRahman7/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ShabasRahman7/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShabasRahman7/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/ShabasRahman7/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |

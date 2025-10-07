@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ShabasRahman7/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ShabasRahman7/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1635-number-of-good-pairs](https://github.com/ShabasRahman7/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ShabasRahman7/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Geometry
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2528-number-of-valid-clock-times](https://github.com/ShabasRahman7/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [2825-minimize-string-length](https://github.com/ShabasRahman7/Leetcode/tree/master/2825-minimize-string-length) |
 | [3194-find-words-containing-character](https://github.com/ShabasRahman7/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ShabasRahman7/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/ShabasRahman7/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3379-score-of-a-string](https://github.com/ShabasRahman7/Leetcode/tree/master/3379-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/ShabasRahman7/Leetcode/tree/master/3636-check-balanced-string) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/ShabasRahman7/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/ShabasRahman7/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/ShabasRahman7/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ShabasRahman7/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 ## Enumeration
 |  |
 | ------- |

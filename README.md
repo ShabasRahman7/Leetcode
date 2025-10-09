@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ShabasRahman7/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ShabasRahman7/Leetcode/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/ShabasRahman7/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0875-longest-mountain-in-array](https://github.com/ShabasRahman7/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0909-stone-game](https://github.com/ShabasRahman7/Leetcode/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/ShabasRahman7/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShabasRahman7/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShabasRahman7/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0875-longest-mountain-in-array](https://github.com/ShabasRahman7/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0909-stone-game](https://github.com/ShabasRahman7/Leetcode/tree/master/0909-stone-game) |
 | [1236-n-th-tribonacci-number](https://github.com/ShabasRahman7/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Game Theory
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ShabasRahman7/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ShabasRahman7/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/ShabasRahman7/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0875-longest-mountain-in-array](https://github.com/ShabasRahman7/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShabasRahman7/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/ShabasRahman7/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [2528-number-of-valid-clock-times](https://github.com/ShabasRahman7/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/ShabasRahman7/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 ## Memoization

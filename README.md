@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ShabasRahman7/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ShabasRahman7/Leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/ShabasRahman7/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ShabasRahman7/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0611-valid-triangle-number](https://github.com/ShabasRahman7/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0875-longest-mountain-in-array](https://github.com/ShabasRahman7/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0909-stone-game](https://github.com/ShabasRahman7/Leetcode/tree/master/0909-stone-game) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ShabasRahman7/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ShabasRahman7/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/ShabasRahman7/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0782-jewels-and-stones](https://github.com/ShabasRahman7/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ShabasRahman7/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ShabasRahman7/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/ShabasRahman7/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/ShabasRahman7/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->

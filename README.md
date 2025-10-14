@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ShabasRahman7/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShabasRahman7/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/ShabasRahman7/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShabasRahman7/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2528-number-of-valid-clock-times](https://github.com/ShabasRahman7/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [2825-minimize-string-length](https://github.com/ShabasRahman7/Leetcode/tree/master/2825-minimize-string-length) |
 | [3194-find-words-containing-character](https://github.com/ShabasRahman7/Leetcode/tree/master/3194-find-words-containing-character) |
@@ -185,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ShabasRahman7/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShabasRahman7/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 <!---LeetCode Topics End-->

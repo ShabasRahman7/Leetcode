@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ShabasRahman7/Leetcode/tree/master/0070-climbing-stairs) |
 | [0909-stone-game](https://github.com/ShabasRahman7/Leetcode/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/ShabasRahman7/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/ShabasRahman7/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ShabasRahman7/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ShabasRahman7/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/ShabasRahman7/Leetcode/tree/master/0322-coin-change) |
 | [0875-longest-mountain-in-array](https://github.com/ShabasRahman7/Leetcode/tree/master/0875-longest-mountain-in-array) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/ShabasRahman7/Leetcode/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/ShabasRahman7/Leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Sliding Window
 |  |

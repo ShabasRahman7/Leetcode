@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/ShabasRahman7/Leetcode/tree/master/1848-sum-of-unique-elements) |
 | [2048-build-array-from-permutation](https://github.com/ShabasRahman7/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ShabasRahman7/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ShabasRahman7/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3194-find-words-containing-character](https://github.com/ShabasRahman7/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ShabasRahman7/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ShabasRahman7/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ShabasRahman7/Leetcode/tree/master/0054-spiral-matrix) |
 | [2048-build-array-from-permutation](https://github.com/ShabasRahman7/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ShabasRahman7/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ShabasRahman7/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ShabasRahman7/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShabasRahman7/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1858-latest-time-by-replacing-hidden-digits](https://github.com/ShabasRahman7/Leetcode/tree/master/1858-latest-time-by-replacing-hidden-digits) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ShabasRahman7/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShabasRahman7/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2528-number-of-valid-clock-times](https://github.com/ShabasRahman7/Leetcode/tree/master/2528-number-of-valid-clock-times) |
 | [2825-minimize-string-length](https://github.com/ShabasRahman7/Leetcode/tree/master/2825-minimize-string-length) |

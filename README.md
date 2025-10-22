@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/ShabasRahman7/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ShabasRahman7/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ShabasRahman7/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/ShabasRahman7/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ShabasRahman7/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1635-number-of-good-pairs](https://github.com/ShabasRahman7/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ShabasRahman7/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/ShabasRahman7/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 ## Geometry
 |  |
 | ------- |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ShabasRahman7/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ShabasRahman7/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+## Prefix Sum
+|  |
+| ------- |
+| [3704-count-partitions-with-even-sum-difference](https://github.com/ShabasRahman7/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 <!---LeetCode Topics End-->

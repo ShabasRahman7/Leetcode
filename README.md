@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ShabasRahman7/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ShabasRahman7/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1635-number-of-good-pairs](https://github.com/ShabasRahman7/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [1817-calculate-money-in-leetcode-bank](https://github.com/ShabasRahman7/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/ShabasRahman7/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ShabasRahman7/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ShabasRahman7/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |

@@ -1,21 +1,14 @@
 class Solution:
     def numberOfBeams(self, bank: List[str]) -> int:
-        total=0
-        m=len(bank[0])
-        n=len(bank)
-        arr=[]
-        for floor in range(0,n):
-            if int(bank[floor])==0:
+        current=bank[0].count("1")
+        beams=0
+        for floor in bank[1:]:
+            devices=floor.count("1")
+            print(devices)
+            if devices==0:
                 continue
-            else:
-                curr=0
-                for i in range(0,m):
-                    if bank[floor][i]=="1":
-                        curr+=1
-                arr.append(curr)
-        res=0
-        for i in range(1,len(arr)):
-            res+=(arr[i]*arr[i-1])
-        return res
+            beams+=(devices*current)
+            current=devices
+        return beams
 
         

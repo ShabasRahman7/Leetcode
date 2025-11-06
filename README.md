@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ShabasRahman7/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ShabasRahman7/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3194-find-words-containing-character](https://github.com/ShabasRahman7/Leetcode/tree/master/3194-find-words-containing-character) |
+| [3221-find-the-peaks](https://github.com/ShabasRahman7/Leetcode/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ShabasRahman7/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ShabasRahman7/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3704-count-partitions-with-even-sum-difference](https://github.com/ShabasRahman7/Leetcode/tree/master/3704-count-partitions-with-even-sum-difference) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/ShabasRahman7/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [2528-number-of-valid-clock-times](https://github.com/ShabasRahman7/Leetcode/tree/master/2528-number-of-valid-clock-times) |
+| [3221-find-the-peaks](https://github.com/ShabasRahman7/Leetcode/tree/master/3221-find-the-peaks) |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/ShabasRahman7/Leetcode/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 ## Memoization
 |  |

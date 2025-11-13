@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ShabasRahman7/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/ShabasRahman7/Leetcode/tree/master/0322-coin-change) |
 | [0611-valid-triangle-number](https://github.com/ShabasRahman7/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0824-number-of-lines-to-write-string](https://github.com/ShabasRahman7/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0875-longest-mountain-in-array](https://github.com/ShabasRahman7/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0909-stone-game](https://github.com/ShabasRahman7/Leetcode/tree/master/0909-stone-game) |
 | [1018-largest-perimeter-triangle](https://github.com/ShabasRahman7/Leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/ShabasRahman7/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0824-number-of-lines-to-write-string](https://github.com/ShabasRahman7/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ShabasRahman7/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ShabasRahman7/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShabasRahman7/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |

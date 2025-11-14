@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ShabasRahman7/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShabasRahman7/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/ShabasRahman7/Leetcode/tree/master/0322-coin-change) |
+| [0485-max-consecutive-ones](https://github.com/ShabasRahman7/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/ShabasRahman7/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0824-number-of-lines-to-write-string](https://github.com/ShabasRahman7/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0875-longest-mountain-in-array](https://github.com/ShabasRahman7/Leetcode/tree/master/0875-longest-mountain-in-array) |

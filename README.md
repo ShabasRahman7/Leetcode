@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ShabasRahman7/Leetcode/tree/master/0322-coin-change) |
 | [0485-max-consecutive-ones](https://github.com/ShabasRahman7/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/ShabasRahman7/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0645-set-mismatch](https://github.com/ShabasRahman7/Leetcode/tree/master/0645-set-mismatch) |
 | [0824-number-of-lines-to-write-string](https://github.com/ShabasRahman7/Leetcode/tree/master/0824-number-of-lines-to-write-string) |
 | [0875-longest-mountain-in-array](https://github.com/ShabasRahman7/Leetcode/tree/master/0875-longest-mountain-in-array) |
 | [0909-stone-game](https://github.com/ShabasRahman7/Leetcode/tree/master/0909-stone-game) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ShabasRahman7/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/ShabasRahman7/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ShabasRahman7/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0645-set-mismatch](https://github.com/ShabasRahman7/Leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/ShabasRahman7/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ShabasRahman7/Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ShabasRahman7/Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ShabasRahman7/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/ShabasRahman7/Leetcode/tree/master/0217-contains-duplicate) |
 | [0611-valid-triangle-number](https://github.com/ShabasRahman7/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0645-set-mismatch](https://github.com/ShabasRahman7/Leetcode/tree/master/0645-set-mismatch) |
 | [1018-largest-perimeter-triangle](https://github.com/ShabasRahman7/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/ShabasRahman7/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/ShabasRahman7/Leetcode/tree/master/1306-minimum-absolute-difference) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ShabasRahman7/Leetcode/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/ShabasRahman7/Leetcode/tree/master/0645-set-mismatch) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ShabasRahman7/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Greedy
 |  |
